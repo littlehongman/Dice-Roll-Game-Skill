@@ -11,3 +11,6 @@ coverage
 # Test outputs
 bst-debug.log
 test_output
+
+# Enviroment
+.env
